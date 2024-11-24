@@ -14,10 +14,6 @@ You can also get the contract addresses via `contracts/lib/Addresses.sol` which 
 
 Notional V2 data types can be found in `Types.sol`. `EncodeDecode.sol` provides library methods for decoding and encoding some tightly packed types.
 
-## Helpers
-
-- Sell all fCash assets
-
 ## Examples
 
 - ifCash Liquidator
